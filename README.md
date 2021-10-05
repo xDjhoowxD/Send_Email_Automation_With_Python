@@ -2,6 +2,8 @@ Automação de Sistemas e Processos com Python
 
 Ferramentas Utilizadas: pyautogui , pyperclip e pandas
 
+IDE: Jupyter
+
 Desafio:
 Enviar um e-mail com o faturamento e a quantidade de produtos vendidos no dia anterior
 
